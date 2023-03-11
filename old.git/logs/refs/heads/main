@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 1a555ea47a7b803de630b467bdba0c906b68c840 Luc de Wit <luc.dewit@hotmail.nl> 1678526966 +0100	clone: from https://gitlab.skill17.com/competitor09/project.git
+1a555ea47a7b803de630b467bdba0c906b68c840 c0e17279149cc5e80dc61ca65cd83256f23b734f Luc de Wit <luc.dewit@hotmail.nl> 1678527049 +0100	commit: initial commit
+c0e17279149cc5e80dc61ca65cd83256f23b734f 6f60f914596c8ca798f54c7c5fb7acf84c572f82 Luc de Wit <luc.dewit@hotmail.nl> 1678529385 +0100	commit: login screen
+6f60f914596c8ca798f54c7c5fb7acf84c572f82 c11539ad6796515626f2bbf3a11207bef596b217 Luc de Wit <luc.dewit@hotmail.nl> 1678529564 +0100	commit: added login screen
+c11539ad6796515626f2bbf3a11207bef596b217 e3243bdb25f5081743adbe834e73588902ea727f Luc de Wit <luc.dewit@hotmail.nl> 1678530493 +0100	commit: chat API endpoints
+e3243bdb25f5081743adbe834e73588902ea727f f4403ede1b4bab80c1b853fdaec60c77eac30af6 Luc de Wit <luc.dewit@hotmail.nl> 1678532656 +0100	commit: finished chat functionality
+f4403ede1b4bab80c1b853fdaec60c77eac30af6 e3570b6dbbab27e455cfd92074f70c4db900ec92 Luc de Wit <luc.dewit@hotmail.nl> 1678532805 +0100	commit: updated docker file
+e3570b6dbbab27e455cfd92074f70c4db900ec92 fd38ca3d122192a4ae8e379b36eedb8261d6adb5 Luc de Wit <luc.dewit@hotmail.nl> 1678536229 +0100	commit: backend finished all the way
+fd38ca3d122192a4ae8e379b36eedb8261d6adb5 c944ddfcfa76c911a26ee4064223a86091afeaad Luc de Wit <luc.dewit@hotmail.nl> 1678538616 +0100	commit: updated dockerfile
+c944ddfcfa76c911a26ee4064223a86091afeaad 08ca4d79e28828359275fd642782b8f526ab851f Luc de Wit <luc.dewit@hotmail.nl> 1678538637 +0100	pull origin main: Merge made by the 'ort' strategy.
+08ca4d79e28828359275fd642782b8f526ab851f b263bfb151976ef0f7fb27af256e4b587c45c809 Luc de Wit <luc.dewit@hotmail.nl> 1678538694 +0100	commit: updated dockerfile
+b263bfb151976ef0f7fb27af256e4b587c45c809 e77e750c608189b77bafbba44422da57c8801628 Luc de Wit <luc.dewit@hotmail.nl> 1678539373 +0100	commit: changing things around for deployment
+e77e750c608189b77bafbba44422da57c8801628 e0fe7313a1eb473dd98d2824da43444072ce8fc8 Luc de Wit <luc.dewit@hotmail.nl> 1678539409 +0100	pull origin main: Merge made by the 'ort' strategy.
+e0fe7313a1eb473dd98d2824da43444072ce8fc8 b8d9a9853bec9110bdff9eed366f3844605056bc Luc de Wit <luc.dewit@hotmail.nl> 1678539745 +0100	commit: removed error in htaccess
+b8d9a9853bec9110bdff9eed366f3844605056bc 6b23bce2f1bb4d067255a6e46cf90475600d597c Luc de Wit <luc.dewit@hotmail.nl> 1678539921 +0100	commit: error in my config.json
+6b23bce2f1bb4d067255a6e46cf90475600d597c 030d2fe34a6a96e2142d571eb4b71f35012628e4 Luc de Wit <luc.dewit@hotmail.nl> 1678540912 +0100	commit: fixed slashes for linux
+030d2fe34a6a96e2142d571eb4b71f35012628e4 1225c3883a6d4d5962e653e606f84db9e4094c12 Luc de Wit <luc.dewit@hotmail.nl> 1678540926 +0100	pull origin main: Merge made by the 'ort' strategy.
+1225c3883a6d4d5962e653e606f84db9e4094c12 33c2bb5768d302a946ee1f657e1f23ba4fea7031 Luc de Wit <luc.dewit@hotmail.nl> 1678541427 +0100	commit: updated db conf for prod
+33c2bb5768d302a946ee1f657e1f23ba4fea7031 abcd1876aa6df1833b04310d29066e3009981d37 Luc de Wit <luc.dewit@hotmail.nl> 1678541437 +0100	pull origin main: Merge made by the 'ort' strategy.
+abcd1876aa6df1833b04310d29066e3009981d37 a75d17115d5d1b34f8918e4a2567a745a9a42626 Luc de Wit <luc.dewit@hotmail.nl> 1678541674 +0100	commit: update db name
+a75d17115d5d1b34f8918e4a2567a745a9a42626 66c38579db5c8319ab3629bdae6e8b8d217a5ad3 Luc de Wit <luc.dewit@hotmail.nl> 1678542010 +0100	commit: debugging
+66c38579db5c8319ab3629bdae6e8b8d217a5ad3 7f3ac0ac6b7d43f6c3d65563c964adb3649dcdcd Luc de Wit <luc.dewit@hotmail.nl> 1678542193 +0100	commit: fix double slash bug
+7f3ac0ac6b7d43f6c3d65563c964adb3649dcdcd ce3af49b5d5a189bf71032c303f002fd1e86dcaf Luc de Wit <luc.dewit@hotmail.nl> 1678542303 +0100	commit: remove debugging echo
+ce3af49b5d5a189bf71032c303f002fd1e86dcaf 6271c1e6a437b8a9df61a75d26b5118b3ba541b5 Luc de Wit <luc.dewit@hotmail.nl> 1678542377 +0100	commit: preparing for main page
+6271c1e6a437b8a9df61a75d26b5118b3ba541b5 f958545179de18910388891a0adaca687ef6d024 Luc de Wit <luc.dewit@hotmail.nl> 1678542443 +0100	commit: return index.html
+f958545179de18910388891a0adaca687ef6d024 a09f218f0fd23b0bfff9489a6a8c6f9a1eb29c1f Luc de Wit <luc.dewit@hotmail.nl> 1678542608 +0100	commit: try with redirect
+a09f218f0fd23b0bfff9489a6a8c6f9a1eb29c1f bd6da2c95f171549ee328d3fc386edb46d342a39 Luc de Wit <luc.dewit@hotmail.nl> 1678543283 +0100	commit: final tweaks
+bd6da2c95f171549ee328d3fc386edb46d342a39 171adb48bea15e6f65251cc36f065f6d7797c52c Luc de Wit <luc.dewit@hotmail.nl> 1678543483 +0100	commit: use prod db
